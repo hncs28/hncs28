@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on FPT TELECOM
 <!--
 **hncs28/hncs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
