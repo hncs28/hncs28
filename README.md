@@ -1,5 +1,5 @@
 ## Hola Casablanca 👋
-- I'm Nam Chaser, you can call me Nam Chaser
+- I'm Nam Chaser, you can call me Nam 
 - 🔭 I’m currently working on FPT TELECOM
 - ## GitHub Stats
 
