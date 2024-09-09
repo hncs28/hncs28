@@ -1,6 +1,6 @@
 ## Hola Casablanca 👋
 - I'm Nam Chaser, you can call me Nam 
-- 🔭 I’m currently working on FPT TELECOM
+- 🔭 I’m currently working on FPT TELECOM 📶
 - ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hncs28&show_icons=true&theme=radical)
