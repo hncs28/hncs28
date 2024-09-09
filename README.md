@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on FPT TELECOM
 - ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hncs28&layout=compact&theme=radical)
 <!--
 **hncs28/hncs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
