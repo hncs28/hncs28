@@ -1,6 +1,6 @@
 ## Hola Casablanca 👋
 - I'm Nam Chaser, you can call me Nam 
-- 🔭 I’m currently working on FPT TELECOM 📶
+
 - ## GitHub Stats
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hncs28&layout=compact&theme=radical)
 
